@@ -1,8 +1,8 @@
 body {
-    background-image: url("https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?cs=srgb&dl=pexels-vishnu-r-nair-1105666.jpg&fm=jpg");
+    background-image: url("https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: auto;
+    background-size: cover;
 }
 
 .mainimage {
