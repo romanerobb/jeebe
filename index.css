@@ -98,7 +98,7 @@ h2 {
 
 .button {
     font-weight: bold;
-    font-size: 25px;
+    font-size: 30px;
     color: white;
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
@@ -106,7 +106,7 @@ h2 {
     margin: 20px;
     cursor: pointer;
     border-radius: 20px;
-    padding: 0.5em 0.5em 0.5em 0.5em;
+    padding: 1.5em 1.5em 1.5em 1.5em;
     text-align: center;
 }
 
